@@ -399,7 +399,6 @@ def key(event):
         update_cursor("cursor",1)
 
         if support_variable.charCount == support_variable.textLength:
-            print("ends")
             w.ResetButton.invoke()
             launch_wpm_window()
 
