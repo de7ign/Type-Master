@@ -4,11 +4,6 @@
 # In conjunction with Tcl version 8.6
 #    Nov 25, 2017 02:25:26 PM
 
-'''
-   * Don't even try to understand this.
-   * I wrote it, and I have no idea why it works.
-   * But it does. My subconscious is that good.
-'''
 
 try:
     from Tkinter import *
