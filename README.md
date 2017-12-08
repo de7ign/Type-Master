@@ -7,6 +7,7 @@ Makes use of all 10 fingers efficiently
 
 - Python 2 and above
 - Tkinter
+- Pillow
 - Keyboard ;)
 
 ## Running
